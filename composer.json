@@ -17,6 +17,6 @@
     ],
     "require": {
         "composer/installers": "*",
-        "bugsnag/bugsnag"    : "1.1.0"
+        "bugsnag/bugsnag"    : "1.0.7"
     }
 }
