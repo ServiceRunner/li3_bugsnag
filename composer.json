@@ -1,0 +1,22 @@
+{
+    "name": "servicerunner/li3_bugsnag",
+    "type": "lithium-library",
+    "description": "Simple Bugsnag integration for Lithium",
+    "keywords": ["bugsnag", "li3", "lithium"],
+    "homepage": "https://github.com/ServiceRunner/li3_bugsnag",
+    "authors": [
+        {
+            "name": "Chris Jones",
+            "email": "leeked@gmail.com",
+            "homepage": "https://github.com/leek"
+        },
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/ServiceRunner/li3_bugsnag/contributors"
+        }
+    ],
+    "require": {
+        "composer/installers": "*",
+        "bugsnag/bugsnag": "dev-master"
+    }
+}
